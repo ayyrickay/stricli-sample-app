@@ -1,0 +1,1 @@
+# stricli-sample-app
